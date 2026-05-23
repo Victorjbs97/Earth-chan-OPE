@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 72f6f08ecef6f0a43a1ba5578669c02d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Learning Curve
+  fontNames:
+  - Learning Curve
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20092abb67dbcd04ebf825029fa2d0a0, type: 3}
+  - {fileID: 12800000, guid: a18bbcbf13dd6984499dae354ef354db, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

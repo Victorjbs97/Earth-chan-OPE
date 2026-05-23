@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: AguaBaixo
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -7223213306111714241, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -8797590403279327510, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -957866450556413222, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -7608359068993981579, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: 2929040767160133032, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -5505483635246824692, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: 2764622552856659955, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -1084256254687101188, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -6425291488601035318, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -3296013502854829664, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: -6952415745496108308, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  - {fileID: 5229011869629212733, guid: fc1e46ac530e4c6478afed10b4f5232b, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1

@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: b3b52cc97c5515d44a6071ff990ea89a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2365948771223162717
+    second: Canudo2_0
+  - first:
+      213: 2794828634526642587
+    second: Canudo2_1
+  - first:
+      213: 1039962167287243003
+    second: Canudo2_2
+  - first:
+      213: -7205241974665985934
+    second: Canudo2_3
+  - first:
+      213: -4224613620669388466
+    second: Canudo2_4
+  - first:
+      213: -3946967416654165032
+    second: Canudo2_5
+  - first:
+      213: -9081514131870313847
+    second: Canudo2_6
+  - first:
+      213: -2518746812640755140
+    second: Canudo2_7
+  - first:
+      213: 2332993784436385080
+    second: Canudo2_8
+  - first:
+      213: 1923553213961285103
+    second: Canudo2_9
+  - first:
+      213: 9015252180949739849
+    second: Canudo2_10
+  - first:
+      213: 1743688260208679494
+    second: Canudo2_11
+  - first:
+      213: -2164813440311789422
+    second: Canudo2_12
+  - first:
+      213: -7406342352472731454
+    second: Canudo2_13
+  - first:
+      213: 2755640553012458584
+    second: Canudo2_14
+  - first:
+      213: 4446781454727734676
+    second: Canudo2_15
+  - first:
+      213: 7781105417807756636
+    second: Canudo2_16
+  - first:
+      213: -5851663695441262811
+    second: Canudo2_17
+  - first:
+      213: 4346985591646058509
+    second: Canudo2_18
+  - first:
+      213: -7181060796233155680
+    second: Canudo2_19
+  - first:
+      213: 645475179423815526
+    second: Canudo2_20
+  - first:
+      213: -5221884904336507177
+    second: Canudo2_21
+  - first:
+      213: -5972359780386366795
+    second: Canudo2_22
+  - first:
+      213: -7116820229353482361
+    second: Canudo2_23
+  - first:
+      213: -7998189117139661199
+    second: Canudo2_24
+  - first:
+      213: 4952794365694885485
+    second: Canudo2_25
+  - first:
+      213: -7222773582563445424
+    second: Canudo2_26
+  - first:
+      213: -6698441889643871969
+    second: Canudo2_27
+  - first:
+      213: 7370111519841691558
+    second: Canudo2_28
+  - first:
+      213: 3573230815546085906
+    second: Canudo2_29
+  - first:
+      213: 253772748564546824
+    second: Canudo2_30
+  - first:
+      213: -6327786290902863018
+    second: Canudo2_31
+  - first:
+      213: 6844097877038190207
+    second: Canudo2_32
+  - first:
+      213: -149793598447732559
+    second: Canudo2_33
+  - first:
+      213: 6883216844935326091
+    second: Canudo2_34
+  - first:
+      213: 7191913123695706721
+    second: Canudo2_35
+  - first:
+      213: -2588027769582150342
+    second: Canudo2_36
+  - first:
+      213: -1629503863783640507
+    second: Canudo2_37
+  - first:
+      213: 1528546151975742696
+    second: Canudo2_38
+  - first:
+      213: 6940984701689833245
+    second: Canudo2_39
+  - first:
+      213: -6000098341416212294
+    second: Canudo2_40
+  - first:
+      213: -5496918333245495872
+    second: Canudo2_41
+  - first:
+      213: -7978353113947864500
+    second: Canudo2_42
+  - first:
+      213: 4803687310203770368
+    second: Canudo2_43
+  - first:
+      213: 4498304129481411666
+    second: Canudo2_44
+  - first:
+      213: 2708117329230952787
+    second: Canudo2_45
+  - first:
+      213: -6910272369526521114
+    second: Canudo2_46
+  - first:
+      213: -4876212729163249685
+    second: Canudo2_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Canudo2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b87eb0267a2fd0800000000000000
+      internalID: -2365948771223162717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fc01e5d939c620800000000000000
+      internalID: 2794828634526642587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf06009c410be6e00800000000000000
+      internalID: 1039962167287243003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270cc4b5996d10c90800000000000000
+      internalID: -7205241974665985934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4969b28b482f55c0800000000000000
+      internalID: -4224613620669388466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db8946eb0e8939c0800000000000000
+      internalID: -3946967416654165032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821e23530bf7f180800000000000000
+      internalID: -9081514131870313847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3286696e1d9b0dd0800000000000000
+      internalID: -2518746812640755140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 320
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83566887c75706020800000000000000
+      internalID: 2332993784436385080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed29b8e475d1ba10800000000000000
+      internalID: 1923553213961285103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949231ef71c9c1d70800000000000000
+      internalID: 9015252180949739849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad1c4fb33d23810800000000000000
+      internalID: 1743688260208679494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298793d45a905f1e0800000000000000
+      internalID: -2164813440311789422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09ee3fed2673990800000000000000
+      internalID: -7406342352472731454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854f7f2ab700e3620800000000000000
+      internalID: 2755640553012458584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canudo2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49567da4c2426bd30800000000000000
+      internalID: 4446781454727734676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HOOK
+  - TARGET
+  - Enemy
+  - moeda
+  - areaAtk
+  - McDano
+  - Chao
+  - Boss
+  - BossCima
+  - chaoPorta
+  - colCam
+  - DeathZone
+  - treme
+  - colisoresFadase
+  - boladefogo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Chao
+  - Background
+  - Player
+  - hook
+  - Rope
+  - Pivot
+  - moeda
+  - Enemy
+  - areaAtk
+  - Boss
+  - BossCima
+  - colCam
+  - treme
+  - colisoresFodase
+  - boladefogo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

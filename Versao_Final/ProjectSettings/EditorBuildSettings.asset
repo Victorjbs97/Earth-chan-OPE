@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 822047d59ff3e3345b2216576ddee0bd
+  - enabled: 1
+    path: Assets/Scenes/cena1.unity
+    guid: 9924d9fcb4e5a974cb39263a855a8754
+  - enabled: 1
+    path: Assets/Scenes/TelaMorte.unity
+    guid: 42d922cfe78240d419369afe4ccbd561
+  - enabled: 1
+    path: Assets/Scenes/Fase 1.unity
+    guid: e685b72d045c83644a3bb083e6f141a1
+  - enabled: 1
+    path: Assets/Scenes/Fase 2.unity
+    guid: 65bace0b2efc9f349baaf10b7de4a743
+  - enabled: 1
+    path: Assets/Scenes/Fase 3.unity
+    guid: 18acc50a788a2ef47beed28f3f0daee3
+  - enabled: 1
+    path: Assets/Scenes/telaBoss.unity
+    guid: 81a204f12c9d42743b4415942169ee52
+  - enabled: 1
+    path: Assets/Scenes/CenaFinal.unity
+    guid: 5557016ecced6834abff27a9aaf5f77c
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: 358663d5752b1cb46bd184cfdf15ac3c
+  m_configObjects: {}
