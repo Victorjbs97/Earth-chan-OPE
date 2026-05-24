@@ -119,13 +119,25 @@ O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de co
 > | :---: | :---: |
 > | <img width="32" height="32" alt="moeda" src="https://github.com/user-attachments/assets/1778405d-9bdd-432d-9ee8-2437a6659c8e" /> | <img width="128" height="128" alt="destroi moeda" src="https://github.com/user-attachments/assets/48db5846-1275-4a19-a085-cac9ec314698" /> |
 >
+> >  ### Coletáveis
+> | Moeda | Pegar moeda |
+> | :---: | :---: |
+> | <img width="200" height="200" alt="baguio hook fechado" src="https://github.com/user-attachments/assets/592b5591-c78b-42d8-9240-4e91ce019901" /> | <img width="200" height="200" alt="baguio hook" src="https://github.com/user-attachments/assets/c0cdc5f1-d9e0-4692-9d74-53c9a394068b" /> |
 > 
 >  ### BOSS
 > | Ataque Cima | Ataque baixo | Morte boss |
 > | :---: | :---: | :---: |
 >|<img width="240" height="120" alt="Atkcima" src="https://github.com/user-attachments/assets/07b00811-5c8e-4135-bcba-14b4a84f3d8a" /> | <img width="240" height="120" alt="AtkBaixo" src="https://github.com/user-attachments/assets/39bbff67-e3de-4c31-929b-ac23a5c9d0a4" /> | <img width="240" height="120" alt="BossMorte" src="https://github.com/user-attachments/assets/dd016fb3-1706-485b-ac00-d9edc8437eeb" /> |
 >
+>### Porta
+> | Porta fase boss | Vida cheia | Vida baixa |
+> | :---: | :---: | :---: |
+> |<img width="200" height="270" alt="Abrindo" src="https://github.com/user-attachments/assets/a04391f3-746b-4d49-b046-81685454b359" /> | <img width="200" height="270" alt="Vida" src="https://github.com/user-attachments/assets/ca877809-d44c-4240-84db-5643b13ab0cb" /> | <img width="200" height="270" alt="Vidabaixa" src="https://github.com/user-attachments/assets/6345928b-978c-4d9c-8da9-bca5a459bf0f" /> |
 >
+> >  ### Coletáveis
+> | Moeda |
+> | :---: |
+>|<img width="522" height="603" alt="assetsLixos" src="https://github.com/user-attachments/assets/f812be20-3c1e-4ce9-bcdb-fbc315281acb" /> |
 
 
   ---
