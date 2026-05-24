@@ -110,12 +110,12 @@ O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de co
 > 
 
 ## Jogue na WEB
- [*Primeira Versão*](https://victorjbs97.github.io/Earth-chan-OPE/Prototipo_Inicial/Jogar_Web/)
+  ### [*Primeira Versão*](https://victorjbs97.github.io/Earth-chan-OPE/Prototipo_Inicial/Jogar_Web/)
  
+  ### [**Versão final WEB**](https://victorjbs97.github.io/Earth-chan-OPE/Versao_Final/Jogar_Web/)
+  ___Versão web é apenas para testes, o jogo foi pensado para ser jogado no Windows. Bugs são esperados, divirta-se, mas lembre-se de que esse é um projeto educativo.___
 
  ## Jogue no Windows
 
   ### [**Primeira Versão**](https://github.com/Victorjbs97/Earth-chan-OPE/releases/tag/v0.3-prototipo)
 
-  ### [**Versão final WEB**](https://victorjbs97.github.io/Earth-chan-OPE/Versao_Final/Jogar_Web/)
-  ___Versão web é apenas para testes, o jogo foi pensado para ser jogado no Windows. Bugs são esperados, divirta-se, mas lembre-se de que esse é um projeto educativo.___
