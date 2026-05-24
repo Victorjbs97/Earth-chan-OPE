@@ -2,6 +2,18 @@
 
 > **Status do Projeto:** Concluído (Projeto Universitário)
 
+## Jogue na WEB
+  ### [**Versão final WEB**](https://victorjbs97.github.io/Earth-chan-OPE/Versao_Final/Jogar_Web/)
+ 
+  ### [*Primeira Versão*](https://victorjbs97.github.io/Earth-chan-OPE/Prototipo_Inicial/Jogar_Web/)
+  ___Versão web é apenas para testes, o jogo foi pensado para ser jogado no Windows. Bugs são esperados, divirta-se, mas lembre-se de que esse é um projeto educativo.___
+
+ ## Jogue no Windows
+
+  ### [**Versão final**](https://github.com/Victorjbs97/Earth-chan-OPE/releases/tag/Vers%C3%A3o-Final)
+
+  ### [**Primeira Versão**](https://github.com/Victorjbs97/Earth-chan-OPE/releases/tag/v0.3-prototipo)
+  
 |Logo Final |
 | :---: |
 |<img width="600" height="300" alt="LogoC" src="https://github.com/user-attachments/assets/eb3af199-af2e-452e-b5a6-28fdc19d13b9" />|
@@ -108,18 +120,13 @@ O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de co
 > | <img width="32" height="32" alt="moeda" src="https://github.com/user-attachments/assets/1778405d-9bdd-432d-9ee8-2437a6659c8e" /> | <img width="128" height="128" alt="destroi moeda" src="https://github.com/user-attachments/assets/48db5846-1275-4a19-a085-cac9ec314698" /> |
 >
 > 
+>  ### BOSS
+> | Ataque Cima | Ataque baixo | Morte boss |
+> | :---: | :---: | :---: |
+>|<img width="240" height="120" alt="Atkcima" src="https://github.com/user-attachments/assets/07b00811-5c8e-4135-bcba-14b4a84f3d8a" /> | <img width="240" height="120" alt="AtkBaixo" src="https://github.com/user-attachments/assets/39bbff67-e3de-4c31-929b-ac23a5c9d0a4" /> | <img width="240" height="120" alt="BossMorte" src="https://github.com/user-attachments/assets/dd016fb3-1706-485b-ac00-d9edc8437eeb" /> |
+>
+>
 
-## Jogue na WEB
-  ### [*Primeira Versão*](https://victorjbs97.github.io/Earth-chan-OPE/Prototipo_Inicial/Jogar_Web/)
- 
-  ### [**Versão final WEB**](https://victorjbs97.github.io/Earth-chan-OPE/Versao_Final/Jogar_Web/)
-  ___Versão web é apenas para testes, o jogo foi pensado para ser jogado no Windows. Bugs são esperados, divirta-se, mas lembre-se de que esse é um projeto educativo.___
-
- ## Jogue no Windows
-
-  ### [**Primeira Versão**](https://github.com/Victorjbs97/Earth-chan-OPE/releases/tag/v0.3-prototipo)
-
-  ### [**Versão final**](https://github.com/Victorjbs97/Earth-chan-OPE/releases/tag/Vers%C3%A3o-Final)
 
   ---
   
