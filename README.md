@@ -74,20 +74,40 @@ O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de co
 >| <img width="82" height="62" alt="buffAtk" src="https://github.com/user-attachments/assets/cc22a817-b273-43cd-8ede-c31f3778fb6c" /> |  <img width="82" height="62" alt="BuffDef" src="https://github.com/user-attachments/assets/7228727f-41d2-43ac-a7e6-0c834a299b44" /> | 
 ---
 
-> **Projeto final**
+> ### Projeto final
 >| Barra de vida |
 >| :---: |
 >| <img width="250" height="100" alt="HUD sem barras" src="https://github.com/user-attachments/assets/0818a7a8-667b-4e0e-bd43-fb48ac7e3c8a" /> |
 >
-> **Cenas**
+> ### Cenas
 > | Earth-chan e Oscar | Earth-chan | Tela de morte |
 > | :---: | :---: | :---: |
 > | <img width="1920" height="1080" alt="Cutscene" src="https://github.com/user-attachments/assets/e9650ba1-e0c9-4a51-a600-d00edc50e129" /> | <img width="1920" height="1080" alt="Cutscene Final" src="https://github.com/user-attachments/assets/2cdfc213-f890-4614-bcfe-e3150a030bb0" /> | <img width="1920" height="1080" alt="tela morte" src="https://github.com/user-attachments/assets/17e0ffc0-aa9c-489c-94be-81c65cbff25b" /> |
 >
-> **Cenário**
+> ### Cenário
 > |Cogumelos de fundo | Montanhas | Tile de fundo |
 > | :---: | :---: | :---: |
 > | <img width="2560" height="1320" alt="Cogu grande frente 2C" src="https://github.com/user-attachments/assets/5828aeb9-4a30-4793-98a0-06df05cceee7" /> | <img width="2560" height="1320" alt="cenario2-2 montanha 1" src="https://github.com/user-attachments/assets/7c30064f-fd68-463b-a0f7-bb265b970873" /> | <img width="2560" height="1320" alt="cenario2-céu" src="https://github.com/user-attachments/assets/4f488766-e310-43cf-b767-ee43dbfbd550" /> |
+>
+> ### Oscar
+> | Andar | Ataque | Morte |
+> | :---: | :---: | :---: |
+>| <img width="288" height="200" alt="finalWalk" src="https://github.com/user-attachments/assets/a5d35ae4-370f-4b9d-b96b-e15c8a2d2879" /> | <img width="288" height="200" alt="finalAtk" src="https://github.com/user-attachments/assets/040145f3-2a8c-497c-a64d-a6564f1f376d" /> | <img width="288" height="200" alt="morte" src="https://github.com/user-attachments/assets/49d2259f-cace-4adc-a134-950e2cf0e779" /> |
+>
+> | Magia | Bola de fogo | Impacto Bola de fogo |
+> | :---: | :---: | :---: |
+> |<img width="288" height="200" alt="magia1" src="https://github.com/user-attachments/assets/e56f141e-f8de-494d-aae3-bb83ac8b2601" /> | <img width="140" height="120" alt="boladefogo" src="https://github.com/user-attachments/assets/d8337e85-02c6-4078-8518-3a65c38a26f9" /> | <img width="70" height="100" alt="destroiMagia" src="https://github.com/user-attachments/assets/427f39da-1b86-4346-b882-70940944ecb9" /> |
+>
+> | Dash Frente | Dash Cima |
+> | :---: | :---: |
+> | <img width="224" height="200" alt="dashFrente" src="https://github.com/user-attachments/assets/50fcc16b-3d6e-45a8-a5f5-32a6778db53b" /> | <img width="224" height="200" alt="dashCima" src="https://github.com/user-attachments/assets/57a62eef-1bdf-4fc6-a34f-2036feb03fb2" /> |
+>
+>  ### Coletáveis
+> | Moeda | Pegar moeda |
+> | :---: | :---: |
+> | <img width="32" height="32" alt="moeda" src="https://github.com/user-attachments/assets/1778405d-9bdd-432d-9ee8-2437a6659c8e" /> | <img width="128" height="128" alt="destroi moeda" src="https://github.com/user-attachments/assets/48db5846-1275-4a19-a085-cac9ec314698" /> |
+>
+> 
 
 ## Jogue na WEB
  [*Primeira Versão*](https://victorjbs97.github.io/Earth-chan-OPE/Prototipo_Inicial/Jogar_Web/)
