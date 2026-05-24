@@ -2,6 +2,20 @@
 
 > **Status do Projeto:** Concluído (Projeto Universitário)
 
+|Logo Final |
+| :---: |
+|<img width="600" height="300" alt="LogoC" src="https://github.com/user-attachments/assets/eb3af199-af2e-452e-b5a6-28fdc19d13b9" />|
+
+| Earth-chan |
+| :---: |
+|<img width="370" height="340" alt="EarthChan" src="https://github.com/user-attachments/assets/9230dccc-55e9-48ef-9716-f96982a8bd95" />|
+
+|Imagem de fundo da tela no jogo final |
+| :---: |
+|<img width="960" height="540" alt="tela inicial" src="https://github.com/user-attachments/assets/7ccb5408-e959-44c5-a291-551155263090" />|
+
+
+
 ## 📖 Sobre o Jogo
 **Earth-Chan** é um jogo de plataforma 2D focado em conscientização ambiental a partir de uma sátira. No universo do jogo, a Terra é uma entidade que ganha forma humanoide. Cansada de sofrer com o descuido humano, ela cria uma torre gigantesca onde todos os agentes poluidores e lixos ganham vida.
 
@@ -12,6 +26,12 @@ O jogo possui uma dificuldade média e foca na utilização estratégica de pouc
 * **Movimentação Ágil:** Uso de *Dash* com frames de invencibilidade para esquivas.
 * **Hook (Gancho):** O jogador pode lançar um gancho para subir em estruturas e se movimentar pelas arenas.
 * **Combate:** Além de desviar dos inimigos (como sacolas de lixo rolando e canudos de plástico mutantes que atiram chorume), o jogador pode atacar fisicamente e disparar bolas de fogo que explodem ao contato.
+
+  > | Gameplay |
+  > | :---: |
+  > | <img width="640" height="360" alt="miniGameplay" src="https://github.com/user-attachments/assets/088d071f-fa10-41da-ad96-2ec3922b9f1a" /> |
+
+
 
 ## 👨‍💻 Meu Papel no Projeto
 Este jogo foi desenvolvido em trio para o curso de Jogos Digitais da Faculdade Impacta. A equipe foi formada por Kaio Marchini (Arte), Daniel de Castro (Narrativa e Level Design) e eu.
@@ -45,6 +65,11 @@ O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de co
 | :---: | :---: | :---:|
 |<img width="64" height="64" alt="BossSacoDeLixo" src="https://github.com/user-attachments/assets/997660ec-bd89-4edf-bc95-7b433a6d2201" />| <img width="64" height="64" alt="sacolinha" src="https://github.com/user-attachments/assets/37d28f13-34dd-4234-9aef-0732c383cf9e" /> | <img width="60" height="80" alt="Canudo" src="https://github.com/user-attachments/assets/4cbf2c6a-a1cc-426a-905a-f05efe1dbeac" /> |
 
+### Buff
+
+| Buff de ataque | Buff de defesa |
+| :---: | :---: |
+| <img width="82" height="62" alt="buffAtk" src="https://github.com/user-attachments/assets/cc22a817-b273-43cd-8ede-c31f3778fb6c" /> |  <img width="82" height="62" alt="BuffDef" src="https://github.com/user-attachments/assets/7228727f-41d2-43ac-a7e6-0c834a299b44" /> | 
 
 ---
 
