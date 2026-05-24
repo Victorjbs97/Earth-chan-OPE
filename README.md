@@ -49,29 +49,45 @@ Minhas principais responsabilidades foram:
 ## 🎨 Arte e Estética
 O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de cores e o *tilemap* tiveram forte inspiração visual em jogos como *Shovel Knight* e *Blasphemous*, utilizando ambientes mais escuros para contrastar com os personagens e destacar a atmosfera pesada do lixo.
 
-
-|Barra de Vida |
-| :---: |
-| <img width="448" height="128" alt="BarraVida vazia1" src="https://github.com/user-attachments/assets/6bed484d-749e-4eed-9147-016fad4bb077" /> |
-
-### Oscar
-| Ataque |  Andando | Parado | Ataque Costa|
-| :---:|:---:| :---: | :---: |
-|<img width="150" height="150" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/1dbc95a0-75f5-499f-825c-f05feecb7e6a" />| <img width="64" height="110" alt="walk" src="https://github.com/user-attachments/assets/3ae42e45-a9f3-43b3-bcc8-a62b6849a259" /> |<img width="150" height="150" alt="idle" src="https://github.com/user-attachments/assets/b20da6d9-009d-4115-b71c-d688c23d10ee" /> | <img width="150" height="150" alt="costa" src="https://github.com/user-attachments/assets/de9636dc-6212-4bad-b7b8-3949e126e43e" /> |
-
-### Inimigos
-
-| Boss | Sacolinha | Canudo |
-| :---: | :---: | :---:|
-|<img width="64" height="64" alt="BossSacoDeLixo" src="https://github.com/user-attachments/assets/997660ec-bd89-4edf-bc95-7b433a6d2201" />| <img width="64" height="64" alt="sacolinha" src="https://github.com/user-attachments/assets/37d28f13-34dd-4234-9aef-0732c383cf9e" /> | <img width="60" height="80" alt="Canudo" src="https://github.com/user-attachments/assets/4cbf2c6a-a1cc-426a-905a-f05efe1dbeac" /> |
-
-### Buff
-
-| Buff de ataque | Buff de defesa |
-| :---: | :---: |
-| <img width="82" height="62" alt="buffAtk" src="https://github.com/user-attachments/assets/cc22a817-b273-43cd-8ede-c31f3778fb6c" /> |  <img width="82" height="62" alt="BuffDef" src="https://github.com/user-attachments/assets/7228727f-41d2-43ac-a7e6-0c834a299b44" /> | 
-
+> Arte primeira versão.
+>
+>
+>|Barra de Vida |
+>| :---: |
+>| <img width="448" height="128" alt="BarraVida vazia1" src="https://github.com/user-attachments/assets/6bed484d-749e-4eed-9147-016fad4bb077" /> |
+>
+>### Oscar
+>| Ataque |  Andando | Parado | Ataque Costa|
+>| :---:|:---:| :---: | :---: |
+>|<img width="150" height="150" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/1dbc95a0-75f5-499f-825c-f05feecb7e6a" />| <img width="64" height="110" alt="walk" src="https://github.com/user-attachments/assets/3ae42e45-a9f3-43b3-bcc8-a62b6849a259" /> |<img width="150" height="150" alt="idle" src="https://github.com/user-attachments/assets/b20da6d9-009d-4115-b71c-d688c23d10ee" /> | <img width="150" height="150" alt="costa" src="https://github.com/user-attachments/assets/de9636dc-6212-4bad-b7b8-3949e126e43e" /> |
+>
+>### Inimigos
+>
+>| Boss | Sacolinha | Canudo |
+>| :---: | :---: | :---:|
+>|<img width="64" height="64" alt="BossSacoDeLixo" src="https://github.com/user-attachments/assets/997660ec-bd89-4edf-bc95-7b433a6d2201" />| <img width="64" height="64" alt="sacolinha" src="https://github.com/user-attachments/assets/37d28f13-34dd-4234-9aef-0732c383cf9e" /> | <img width="60" height="80" alt="Canudo" src="https://github.com/user-attachments/assets/4cbf2c6a-a1cc-426a-905a-f05efe1dbeac" /> |
+>
+>### Buff
+>
+>| Buff de ataque | Buff de defesa |
+>| :---: | :---: |
+>| <img width="82" height="62" alt="buffAtk" src="https://github.com/user-attachments/assets/cc22a817-b273-43cd-8ede-c31f3778fb6c" /> |  <img width="82" height="62" alt="BuffDef" src="https://github.com/user-attachments/assets/7228727f-41d2-43ac-a7e6-0c834a299b44" /> | 
 ---
+
+> **Projeto final**
+>| Barra de vida |
+>| :---: |
+>| <img width="250" height="100" alt="HUD sem barras" src="https://github.com/user-attachments/assets/0818a7a8-667b-4e0e-bd43-fb48ac7e3c8a" /> |
+>
+> **Cenas**
+> | Earth-chan e Oscar | Earth-chan | Tela de morte |
+> | :---: | :---: | :---: |
+> | <img width="1920" height="1080" alt="Cutscene" src="https://github.com/user-attachments/assets/e9650ba1-e0c9-4a51-a600-d00edc50e129" /> | <img width="1920" height="1080" alt="Cutscene Final" src="https://github.com/user-attachments/assets/2cdfc213-f890-4614-bcfe-e3150a030bb0" /> | <img width="1920" height="1080" alt="tela morte" src="https://github.com/user-attachments/assets/17e0ffc0-aa9c-489c-94be-81c65cbff25b" /> |
+>
+> **Cenário**
+> |Cogumelos de fundo | Montanhas | Tile de fundo |
+> | :---: | :---: | :---: |
+> | <img width="2560" height="1320" alt="Cogu grande frente 2C" src="https://github.com/user-attachments/assets/5828aeb9-4a30-4793-98a0-06df05cceee7" /> | <img width="2560" height="1320" alt="cenario2-2 montanha 1" src="https://github.com/user-attachments/assets/7c30064f-fd68-463b-a0f7-bb265b970873" /> | <img width="2560" height="1320" alt="cenario2-céu" src="https://github.com/user-attachments/assets/4f488766-e310-43cf-b767-ee43dbfbd550" /> |
 
 ## Jogue na WEB
  [*Primeira Versão*](https://victorjbs97.github.io/Earth-chan-OPE/Prototipo_Inicial/Jogar_Web/)
