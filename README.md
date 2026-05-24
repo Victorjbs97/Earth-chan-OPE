@@ -134,8 +134,8 @@ O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de co
 > | :---: | :---: | :---: |
 > |<img width="200" height="270" alt="Abrindo" src="https://github.com/user-attachments/assets/a04391f3-746b-4d49-b046-81685454b359" /> | <img width="200" height="270" alt="Vida" src="https://github.com/user-attachments/assets/ca877809-d44c-4240-84db-5643b13ab0cb" /> | <img width="200" height="270" alt="Vidabaixa" src="https://github.com/user-attachments/assets/6345928b-978c-4d9c-8da9-bca5a459bf0f" /> |
 >
-> >  ### Coletáveis
-> | Moeda |
+> >  ### Tiles
+> | Tiles |
 > | :---: |
 >|<img width="522" height="603" alt="assetsLixos" src="https://github.com/user-attachments/assets/f812be20-3c1e-4ce9-bcdb-fbc315281acb" /> |
 
