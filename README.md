@@ -28,6 +28,7 @@ Minhas principais responsabilidades foram:
 
 ## 🎨 Arte e Estética
 O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de cores e o *tilemap* tiveram forte inspiração visual em jogos como *Shovel Knight* e *Blasphemous*, utilizando ambientes mais escuros para contrastar com os personagens e destacar a atmosfera pesada do lixo.
+<img width="150" height="150" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/1dbc95a0-75f5-499f-825c-f05feecb7e6a" />
 
 
 
