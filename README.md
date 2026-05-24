@@ -39,11 +39,15 @@ O jogo possui uma dificuldade média e foca na utilização estratégica de pouc
 * **Hook (Gancho):** O jogador pode lançar um gancho para subir em estruturas e se movimentar pelas arenas.
 * **Combate:** Além de desviar dos inimigos (como sacolas de lixo rolando e canudos de plástico mutantes que atiram chorume), o jogador pode atacar fisicamente e disparar bolas de fogo que explodem ao contato.
 
+### Gameplay protótipo 
   > | Gameplay |
   > | :---: |
   > | <img width="640" height="360" alt="miniGameplay" src="https://github.com/user-attachments/assets/088d071f-fa10-41da-ad96-2ec3922b9f1a" /> |
 
-
+### Gameplay Final
+  > | Gameplay |
+  > | :---: |
+  > | <img width="640" height="360" alt="BossTela" src="https://github.com/user-attachments/assets/9dcbf45a-cbad-4479-b376-58f28eb8f5c5" /> |
 
 ## 👨‍💻 Meu Papel no Projeto
 Este jogo foi desenvolvido em trio para o curso de Jogos Digitais da Faculdade Impacta. A equipe foi formada por Kaio Marchini (Arte), Daniel de Castro (Narrativa e Level Design) e eu.
