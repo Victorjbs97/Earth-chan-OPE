@@ -124,7 +124,7 @@ O jogo foi totalmente desenvolvido com gráficos em Pixel Art 2D. A paleta de co
 > | <img width="32" height="32" alt="moeda" src="https://github.com/user-attachments/assets/1778405d-9bdd-432d-9ee8-2437a6659c8e" /> | <img width="128" height="128" alt="destroi moeda" src="https://github.com/user-attachments/assets/48db5846-1275-4a19-a085-cac9ec314698" /> |
 >
 > >  ### Coletáveis
-> | Moeda | Pegar moeda |
+> | Hook Point Fechado | Hook Point Aberto |
 > | :---: | :---: |
 > | <img width="200" height="200" alt="baguio hook fechado" src="https://github.com/user-attachments/assets/592b5591-c78b-42d8-9240-4e91ce019901" /> | <img width="200" height="200" alt="baguio hook" src="https://github.com/user-attachments/assets/c0cdc5f1-d9e0-4692-9d74-53c9a394068b" /> |
 > 
